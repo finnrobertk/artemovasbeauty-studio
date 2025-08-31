@@ -37,3 +37,8 @@ coverage/
 # Editors
 *.swp
 *.swo
+
+# Package manager lockfiles (pnpm only)
+package-lock.json
+yarn.lock
+npm-shrinkwrap.json
